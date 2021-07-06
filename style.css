@@ -1,8 +1,8 @@
-/* Google Font Link  */
+
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
 
-/* Default Css  */
+
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -23,40 +23,12 @@ a {
   text-decoration: none;
 }
 
-/* Header-Section Css Start Here  */
 
-.header {
-  background-color: #fd4f30;
-  padding: 10px 0;
-}
 
-.header-main {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.head-logo a {
-  font-size: 28px;
-  font-weight: 600;
-  color: #fff;
-}
 
-.head-signin a {
-  color: #fff;
-  padding: 8px 20px;
-  font-size: 18px;
-  border: 2px solid #fff;
-  border-radius: 15px;
-  margin: 0px 20px;
-  font-weight: 500;
-  display: inline-block;
-  background-color: #ed30b3;
-}
 
-/* Header-Section Css End Here  */
 
-/* Banner-Section Css Start Here  */
 
 .banner-section {
   padding: 48px 10px;
@@ -105,9 +77,9 @@ a {
   margin-top: 20px;
 }
 
-/* Banner-Section Css End Here  */
 
-/* About-Section Start Here  */
+
+
 
 .about-section {
   padding: 80px 0 0;
@@ -143,9 +115,9 @@ a {
   font-weight: 500;
 }
 
-/* About-Section End Here  */
 
-/* Recipie-Section Css Start Here  */
+
+
 
 .recipie-section {
   padding: 80px 0;
@@ -192,9 +164,9 @@ a {
   color: #333;
 }
 
-/* Recipie-Section Css End Here  */
 
-/* Optional-Section Start Here  */
+
+
 
 .optional-main {
   display: flex;
@@ -223,9 +195,9 @@ a {
   color: #555;
 }
 
-/* Optional-Section End Here  */
 
-/* Network-Content Start Here  */
+
+
 
 .food-network {
   background-color: #555555;
@@ -251,9 +223,9 @@ a {
   color: #ffffff;
 }
 
-/* Network-Content End Here  */
 
-/* Footer-Section Start Here  */
+
+
 
 footer {
   background-color: #fb7c41;
@@ -271,4 +243,3 @@ footer p a {
   color: crimson;
 }
 
-/* Footer-Section Start Here  */
